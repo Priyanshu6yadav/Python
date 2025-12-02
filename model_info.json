@@ -1,1 +1,0 @@
-{"model_name": "DecisionsTreeClassifier", "accuracy": 0.93, "parameters": {"max_depth": 5, "min_sample_split": 2}}
